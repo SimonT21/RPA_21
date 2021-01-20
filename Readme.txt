@@ -1,0 +1,1 @@
+Tukaj bodo vsa predavanja iz vaje na Šc Nova Gorica pri predmetu RPA.
