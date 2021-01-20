@@ -15,3 +15,5 @@ namespace Test_1_git
         }
     }
 }
+sem dodal zdaj ja. mi je uspelo ampak
+    je izginilo okno na desni
